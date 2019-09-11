@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://bimaikhsan.github.io/</loc>
+     <loc>https://bimaikhsan.github.io/datamining/</loc>
+     <lastmod>2019-09-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://bimaikhsan.github.io/datamining/statistik deskriptif/</loc>
      <lastmod>2019-09-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
